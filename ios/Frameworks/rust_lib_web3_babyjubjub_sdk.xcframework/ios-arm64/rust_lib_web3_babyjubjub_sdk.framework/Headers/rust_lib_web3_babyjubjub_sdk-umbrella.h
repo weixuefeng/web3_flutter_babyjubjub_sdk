@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double rust_lib_web3_babybjubjub_sdkVersionNumber;
-FOUNDATION_EXPORT const unsigned char rust_lib_web3_babybjubjub_sdkVersionString[];
+FOUNDATION_EXPORT double rust_lib_web3_babyjubjub_sdkVersionNumber;
+FOUNDATION_EXPORT const unsigned char rust_lib_web3_babyjubjub_sdkVersionString[];
 

@@ -4,33 +4,33 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/rust_lib_web3_babybjubjub_sdk-umbrella.h</key>
+		<key>Headers/rust_lib_web3_babyjubjub_sdk-umbrella.h</key>
 		<data>
-		fJa0O7NK5DIlo7QKF0Q+bVfeHSc=
+		Zziu7WSotCO99n5Y+yH9OVxNnQI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XXMsUmeBfV8E4fM5KW4YW8oEQFM=
+		ym9PjSj4lmguemADf+IjMoQeQXk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		N22fGF6fdoorKVt1IqEKh1DBlxs=
+		LN8aTQUmQ7Lk+XHr10DlOBAC88c=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/rust_lib_web3_babybjubjub_sdk-umbrella.h</key>
+		<key>Headers/rust_lib_web3_babyjubjub_sdk-umbrella.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T1vDQGanAPcgWi9dm9eGJ348eyRomqi43mAjLNw4pwQ=
+			4a7QU70HYiQPzY0p/dO18DosQnmFhmfHETVK7haRPKE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oB1Bi7vf7JP8he6tNhBLVKdU/YMby8HpqhSElutTE7Q=
+			as8QwQyBrIp3n+8UJqZuLC9mcmp2ZWI5h/gDq0Jh/lM=
 			</data>
 		</dict>
 	</dict>
